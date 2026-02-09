@@ -1,0 +1,10 @@
+battery_voltage:
+  max: 8.4
+  min: 7.0
+  warning_max: 8.2
+  warning_min: 7.3
+temperature:
+  max: 39.0
+  min: 10.0
+  warning_max: 38.0
+  warning_min: 20.0
